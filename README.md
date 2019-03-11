@@ -1,4 +1,4 @@
-# Weezer
+# weezer
 
 ## Band Website Project
 
@@ -9,3 +9,7 @@ Simple band website project using HTML and modern design styling with CSS.
 ### Technologies Used:
 
 HTML | CSS
+
+#### Screenshots
+
+![](images/screenshot.png)
