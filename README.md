@@ -13,3 +13,5 @@ HTML | CSS
 #### Screenshots
 
 ![](images/screenshot.png)
+
+See it in action here on Heroku --> https://manuel-padilla.github.io/favorite_band/index.html
